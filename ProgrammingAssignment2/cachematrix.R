@@ -1,6 +1,5 @@
 ## These two function cache the inverse of a matrix
 
-
 ## This function creates a special "matrix" object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
